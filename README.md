@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm Marco Portillo, find out more about me and my resume here --> [website](https://marcoportillo.dev)
-- ☀️ I'm currently a Senior @ ASU studying CompSci.
+- ☀️ I'm currently a Senior @ ASU studying Computer Science.
 - 📚 I'm an avid learner ready to take on new challenges!
 - 🧑‍💻 You'll find me working on full-stack projects like [Syncora](https://github.com/wnzel/syncora) or upskilling with backend projects like my [ToDoListApp](https://github.com/Americana808/ToDoListApp)
 - 🐻 I've had experience with Data Analysis and parsing while working on my undergrad research @ Phoenix College.
