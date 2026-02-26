@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- I'm Marco Portillo, find out more about me and my resume here --> [website](https://marcoportillo.dev)
+- ☀️ I'm currently a Senior @ ASU studying CompSci.
+- 📚 I'm an avid learner ready to take on new challenges!
+- 🧑‍💻 You'll find me working on full-stack projects like [Syncora](https://github.com/wnzel/syncora) or upskilling with backend projects like my [ToDoListApp](https://github.com/Americana808/ToDoListApp)
+- 🐻 I've had experience with Data Analysis and parsing while working on my undergrad research @ Phoenix College.
+- 💻 Ask me about participating in a hackathon! I'm always up to create and collaborate :)
+- 📨 Contact me: <mprotillo1605@gmail.com>
+- 👽 Fun fact: I create live visuals for raves in my free time!
 <!--
 **Americana808/Americana808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
