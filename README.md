@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :)
 
 - I'm Marco Portillo, find out more about me and my resume here --> [website](https://marcoportillo.dev)
 - ☀️ I'm currently a Senior @ ASU studying Computer Science.
